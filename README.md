@@ -1,12 +1,9 @@
-## About This Site
+#### Saya memiliki 2 rencana untuk saat ini. Yang pertama adalah `short plan` dan yg kedua adalah `future plan`.
 
-Ini adalah site sederhana dan hanya 1 pages saja. Web page ini saya gunakan sebagai bahan belajar tentang html dan css (markup dasar)
+> Short Plan
 
-## Used Tags & Syntaxes
+Saya ingin fokus memperdalam html, css, dan javascript yang ingin saya jadikan pondasi awal saya sebagai calon full stack js developer. Dan ingin bekerja sebagai full stack js juga.
 
-Dalam website ini tag yang saya pakai terdiri dari `<p><header><body><h1><h3><hr>` dan yg lain nya bisa dilihat pada source jika ingin melihatnya
+> Future Plan
 
-## About Me
-
-Nama saya adalah maulana, saya disini sebagai orang awam yang ingin selalu belajar tentang technology khususnya programming.
-
+Berbekal dari apa yang akan saya dapatkan di hacktiv8 nanti, saya ingin membangun sebuah produk yang bisa bermanfaat bagi orang lain. Bisa semacam library atau bisa juga dalam bentuk web/mobile system. Dan jika di beri jalan sama Allah SWT, saya ingin membuat startup yang saya dirikan sendiri, sehingga bisa membantu perekonomian orang lain.
