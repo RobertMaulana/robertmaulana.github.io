@@ -73,7 +73,6 @@ header .hero-area {
   margin-top: 20px;
   word-spacing: 30px;
   letter-spacing: 1px;
-  color: #000;
 }
 .main-nav li{
   display: inline-block;
@@ -83,6 +82,7 @@ header .hero-area {
   text-transform: uppercase;
   text-decoration: none;
   padding: 10px 0px;
+  color: #000;
 }
 .main-nav li a:hover{
   border-bottom: 1px solid #e67e22;
