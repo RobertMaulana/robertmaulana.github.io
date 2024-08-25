@@ -1,0 +1,91 @@
+# Teks tata letak situs
+
+# ----- Label umum -----
+
+layout:
+  post: Postingan
+  category: Kategori
+  tag: Tag
+
+# Tab di sidebar
+tabs:
+  # format: <nama_berkas_tanpa_ekstensi>: <nilai>
+  home: Beranda
+  categories: Kategori
+  tags: Tag
+  archives: Arsip
+  about: Tentang
+
+# Teks yang ditampilkan di bilah pencarian & hasil pencarian
+search:
+  hint: cari
+  cancel: Batal
+  no_results: Oops! Tidak ada hasil yang ditemukan.
+
+panel:
+  lastmod: Baru Saja Diperbarui
+  trending_tags: Tag Populer
+  toc: Daftar Isi
+
+copyright:
+  # Ditampilkan di bagian bawah postingan
+  license:
+    template: Postingan ini dilisensikan di bawah :LICENSE_NAME oleh penulisnya.
+    name: CC BY 4.0
+    link: https://creativecommons.org/licenses/by/4.0/
+
+  # Ditampilkan di footer
+  brief: Beberapa hak dilindungi undang-undang.
+  verbose: >-
+    Kecuali dinyatakan lain, postingan blog di situs ini dilisensikan
+    di bawah Lisensi Creative Commons Attribution 4.0 International (CC BY 4.0) oleh penulisnya.
+
+meta: Menggunakan tema :THEME untuk :PLATFORM
+
+not_found:
+  statment: Maaf, kami kehilangan URL itu atau mengarah ke sesuatu yang tidak ada.
+
+notification:
+  update_found: Versi konten baru tersedia.
+  update: Perbarui
+
+# ----- Label terkait postingan -----
+
+post:
+  written_by: Oleh
+  posted: Diposting
+  updated: Diperbarui
+  words: kata
+  pageview_measure: dilihat
+  read_time:
+    unit: menit
+    prompt: baca
+  relate_posts: Bacaan Lainnya
+  share: Bagikan
+  button:
+    next: Lebih Baru
+    previous: Lebih Lama
+    copy_code:
+      succeed: Tersalin!
+    share_link:
+      title: Salin tautan
+      succeed: Tautan berhasil disalin!
+
+# Format tanggal waktu.
+# Lihat: <http://strftime.net/>, <https://day.js.org/docs/en/display/format>
+df:
+  post:
+    strftime: "%b %e, %Y"
+    dayjs: "ll"
+  archives:
+    strftime: "%b"
+    dayjs: "MMM"
+
+# halaman kategori
+categories:
+  category_measure:
+    singular: kategori
+    plural: kategori
+  post_measure:
+    singular: postingan
+    plural: postingan
